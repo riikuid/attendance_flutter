@@ -1,16 +1,56 @@
-# presence_app
+# ATTENDANCE FLUTTER
 
-A new Flutter project.
+> **Flutter**: 3.29.3  
+> **State management**: Provider  
+> **Backend**: Firebase Auth (Google), Cloud Firestore
 
-## Getting Started
+Aplikasi latihan sederhana untuk **check-in / check-out** yang fokus pada **kode simpel** dan **UX mulus**:
 
-This project is a starting point for a Flutter application.
+- 🔐 Login Google
+- ⏰ Live clock (WIB)
+- 🟢 Check-in / 🔴 Check-out
+- 📝 Riwayat real-time
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## ✨ Fitur
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Login dengan **Google Sign-In**
+- Live clock **WIB** (update tiap detik)
+- **Check-in** membuat dokumen baru
+- **Check-out** menutup check aktif (dok terbaru tanpa `checkOutAt`)
+- Riwayat dalam **satu daftar** (terbaru di atas)
+
+---
+
+## 📱 Screenshot
+
+| Layar             | Gambar                                  |
+| ----------------- | --------------------------------------- |
+| Sign In           | ![Sign In](docs/screenshots/signin.png) |
+| Home (Live Clock) | ![Home](docs/screenshots/home.png)      |
+|                   | ![Home2](docs/screenshots/home2.png)    |
+
+---
+
+## 📦 Unduh APK
+
+- **APK (Release)**: [Download](docs/apk/app-release.apk)
+
+---
+
+## 🎬 Demo Video
+
+- **Tonton demo**:
+  ![Demo](docs/record/record.gif)
+
+---
+
+## 🧰 Tech Stack
+
+- Flutter **3.29.3**
+- Firebase: **Authentication (Google)**, **Cloud Firestore**
+- **provider** (state management)
+- **intl** (format tanggal/waktu)
+
+---
