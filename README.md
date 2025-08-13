@@ -25,11 +25,11 @@ Aplikasi latihan sederhana untuk **check-in / check-out** yang fokus pada **kode
 
 ## 📱 Screenshot
 
-| Layar             | Gambar                                  |
-| ----------------- | --------------------------------------- |
-| Sign In           | ![Sign In](docs/screenshots/signin.png) |
-| Home (Live Clock) | ![Home](docs/screenshots/home.png)      |
-|                   | ![Home2](docs/screenshots/home2.png)    |
+| Layar             | Gambar                                   |
+| ----------------- | ---------------------------------------- |
+| Sign In           | ![Sign In](docs/screenshots/signin.jpeg) |
+| Home (Live Clock) | ![Home](docs/screenshots/home.jpeg)      |
+|                   | ![Home2](docs/screenshots/home2.jpeg)    |
 
 ---
 
