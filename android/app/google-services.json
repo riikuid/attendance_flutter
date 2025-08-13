@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "754576855855",
+    "project_id": "presence-app-55ec9",
+    "storage_bucket": "presence-app-55ec9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754576855855:android:e31aa63f0de69d60c007da",
+        "android_client_info": {
+          "package_name": "com.fahmi.presence"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754576855855-qk76jboesegd6ksh33omcd7todpoffvf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgfihgkMU_QVrFdN-EsZbN1xxcuypk2ac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754576855855-qk76jboesegd6ksh33omcd7todpoffvf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
